@@ -1,0 +1,42 @@
+03-10-2024 11:24:39.174 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils.detectDefaultConfigurationClasses - Could not detect default configuration classes for test class [com.example.SpringBootInternationalizationApplicationTests]: SpringBootInternationalizationApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+03-10-2024 11:24:39.345 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper.getOrFindConfigurationClasses - Found @SpringBootConfiguration com.example.SpringBootInternationalizationApplication for test class com.example.SpringBootInternationalizationApplicationTests
+03-10-2024 11:24:39.829 [main] INFO  c.e.SpringBootInternationalizationApplicationTests.logStarting - Starting SpringBootInternationalizationApplicationTests using Java 17.0.11 with PID 10772 (started by sonal in C:\Users\sonal\Downloads\spring-boot-internationalization\spring-boot-internationalization)
+03-10-2024 11:24:39.832 [main] INFO  c.e.SpringBootInternationalizationApplicationTests.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+03-10-2024 11:24:41.406 [main] INFO  c.e.SpringBootInternationalizationApplicationTests.logStarted - Started SpringBootInternationalizationApplicationTests in 1.863 seconds (process running for 3.367)
+03-10-2024 11:25:08.628 [main] INFO  c.e.SpringBootInternationalizationApplication.logStarting - Starting SpringBootInternationalizationApplication using Java 17.0.11 with PID 1188 (C:\Users\sonal\Downloads\spring-boot-internationalization\spring-boot-internationalization\target\classes started by sonal in C:\Users\sonal\Downloads\spring-boot-internationalization\spring-boot-internationalization)
+03-10-2024 11:25:08.647 [main] INFO  c.e.SpringBootInternationalizationApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+03-10-2024 11:25:10.264 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port 8088 (http)
+03-10-2024 11:25:10.268 [main] INFO  o.a.c.core.AprLifecycleListener.log - Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+03-10-2024 11:25:10.291 [main] INFO  o.a.c.core.AprLifecycleListener.log - OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+03-10-2024 11:25:10.309 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-0.0.0.0-8088"]
+03-10-2024 11:25:10.313 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+03-10-2024 11:25:10.313 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/10.1.30]
+03-10-2024 11:25:10.390 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+03-10-2024 11:25:10.390 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1581 ms
+03-10-2024 11:25:10.938 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-0.0.0.0-8088"]
+03-10-2024 11:25:10.972 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port 8088 (http) with context path '/'
+03-10-2024 11:25:10.983 [main] INFO  c.e.SpringBootInternationalizationApplication.logStarted - Started SpringBootInternationalizationApplication in 3.015 seconds (process running for 3.867)
+03-10-2024 11:25:33.383 [http-nio-0.0.0.0-8088-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+03-10-2024 11:25:33.383 [http-nio-0.0.0.0-8088-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+03-10-2024 11:25:33.383 [http-nio-0.0.0.0-8088-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 0 ms
+03-10-2024 11:28:53.543 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils.detectDefaultConfigurationClasses - Could not detect default configuration classes for test class [com.example.SpringBootInternationalizationApplicationTests]: SpringBootInternationalizationApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+03-10-2024 11:28:53.679 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper.getOrFindConfigurationClasses - Found @SpringBootConfiguration com.example.SpringBootInternationalizationApplication for test class com.example.SpringBootInternationalizationApplicationTests
+03-10-2024 11:28:54.127 [main] INFO  c.e.SpringBootInternationalizationApplicationTests.logStarting - Starting SpringBootInternationalizationApplicationTests using Java 17.0.11 with PID 9520 (started by sonal in C:\Users\sonal\Downloads\spring-boot-internationalization\spring-boot-internationalization)
+03-10-2024 11:28:54.128 [main] INFO  c.e.SpringBootInternationalizationApplicationTests.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+03-10-2024 11:28:55.587 [main] INFO  c.e.SpringBootInternationalizationApplicationTests.logStarted - Started SpringBootInternationalizationApplicationTests in 1.721 seconds (process running for 2.96)
+03-10-2024 11:29:12.135 [main] INFO  c.e.SpringBootInternationalizationApplication.logStarting - Starting SpringBootInternationalizationApplication using Java 17.0.11 with PID 7332 (C:\Users\sonal\Downloads\spring-boot-internationalization\spring-boot-internationalization\target\classes started by sonal in C:\Users\sonal\Downloads\spring-boot-internationalization\spring-boot-internationalization)
+03-10-2024 11:29:12.140 [main] INFO  c.e.SpringBootInternationalizationApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+03-10-2024 11:29:13.337 [main] WARN  io.undertow.websockets.jsr.handleDeployment - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+03-10-2024 11:29:13.358 [main] INFO  io.undertow.servlet.log - Initializing Spring embedded WebApplicationContext
+03-10-2024 11:29:13.359 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1153 ms
+03-10-2024 11:29:13.822 [main] INFO  io.undertow.start - starting server: Undertow - 2.3.17.Final
+03-10-2024 11:29:13.837 [main] INFO  org.xnio.<clinit> - XNIO version 3.8.16.Final
+03-10-2024 11:29:13.848 [main] INFO  org.xnio.nio.<clinit> - XNIO NIO Implementation Version 3.8.16.Final
+03-10-2024 11:29:14.002 [main] INFO  org.jboss.threads.<clinit> - JBoss Threads version 3.5.0.Final
+03-10-2024 11:29:14.087 [main] INFO  o.s.b.w.e.undertow.UndertowWebServer.start - Undertow started on port 8088 (http) with context path '/'
+03-10-2024 11:29:14.097 [main] INFO  c.e.SpringBootInternationalizationApplication.logStarted - Started SpringBootInternationalizationApplication in 2.416 seconds (process running for 3.057)
+03-10-2024 11:29:44.068 [XNIO-1 task-2] INFO  io.undertow.servlet.log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+03-10-2024 11:29:44.075 [XNIO-1 task-2] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+03-10-2024 11:29:44.075 [XNIO-1 task-2] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 0 ms
+03-10-2024 11:30:06.666 [SpringApplicationShutdownHook] INFO  io.undertow.stop - stopping server: Undertow - 2.3.17.Final
+03-10-2024 11:30:06.679 [SpringApplicationShutdownHook] INFO  io.undertow.servlet.log - Destroying Spring FrameworkServlet 'dispatcherServlet'
