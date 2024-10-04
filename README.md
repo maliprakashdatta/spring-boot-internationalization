@@ -1,6 +1,6 @@
 # Internationalization-Demo
 ## Please follow below steps to have smooth execution of the demo prograam
-Clone this project to your local machine
+Clone this project to your local machine 
 
 Please make sure your java environment is pointing to JDK-17
 
